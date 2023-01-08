@@ -12,6 +12,9 @@ import matplotlib.pyplot as plt
 import datetime
 
 
+#to read the csv file into a  data frame
+
+
 
 my_data = pd.read_csv("/Users/sherin/Library/Containers/com.microsoft.Excel/Data/Downloads/big mac.csv")
 
