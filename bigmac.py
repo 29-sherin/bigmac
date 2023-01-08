@@ -95,3 +95,5 @@ plt.xlabel("Years")
 plt.title("Big mac Year Wise Dollar Price for 5 Countries", fontsize="15")
 plt.savefig("Bigmac year 5 countries.png")
 plt.show()
+
+
